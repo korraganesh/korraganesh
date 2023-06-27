@@ -1,8 +1,8 @@
-![logo](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![logo(https://i.gifer.com/NvO.gif](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
 <h1 align="center">Hi 👋, I'm Korra Ganesh</h1>
 <h3 align="center">"Building Powerful Web Applications with MERN Stack and C++ Expertise"</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korraganesh&label=Profile%20views&color=0e75b6&style=flat" alt="korraganesh" /> </p>
 
